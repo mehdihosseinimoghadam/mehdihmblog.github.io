@@ -1,16 +1,18 @@
 ---
 layout: post
-title: "Learning Resources"
+title: "Resources for Deep Architectures and Blocks "
 author: "Mehdi Hosseini Moghadam"
 categories: journal
-tags: [Resources,Docs,Videos,Blogs]
+tags: [Resources,Docs,Videos,Blogs,Deep Learning,Architectures]
 image: architecture.jpg
 ---
 
 The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
 
-## [Free Code Camp](https://www.freecodecamp.org/)
+## [CBHG](https://www.freecodecamp.org/)
 
+
+The CBHG (1-D convolution bank + highway network + bidirectional GRU) 
 My personal favourite for learning full stack web development. They offer a great front and back end curriculum that requires you to complete a variety of projects in order to apply the knowledge that you learn during the lessons. As a bonus, at the end of the curriculum you will have a few impressive projects under your belt for your portfolio.
 
 ## [Codecademy](https://www.codecademy.com/)
