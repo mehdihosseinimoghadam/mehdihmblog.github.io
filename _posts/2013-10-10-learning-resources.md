@@ -4,7 +4,7 @@ title: "Learning Resources"
 author: "Mehdi Hosseini Moghadam"
 categories: journal
 tags: [Resources,Docs,Videos,Blogs]
-image: CBHG.png
+image: https://images.unsplash.com/photo-1483366774565-c783b9f70e2c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGFyY2hpdGVjdHVyZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60
 ---
 
 The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
@@ -14,6 +14,7 @@ The beauty of computer programming is that you do not need to formally go to sch
 My personal favourite for learning full stack web development. They offer a great front and back end curriculum that requires you to complete a variety of projects in order to apply the knowledge that you learn during the lessons. As a bonus, at the end of the curriculum you will have a few impressive projects under your belt for your portfolio.
 
 ## [Codecademy](https://www.codecademy.com/)
+
 ![Screenshot](https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/gh-pages/assets/img/CBHG.png)
 
 Not only does Codecademy have many great courses on various web development languages such as [HTML](https://www.codecademy.com/learn/learn-html), [CSS](https://www.codecademy.com/learn/learn-css), and [JavaScript](https://www.codecademy.com/learn/introduction-to-javascript), but they even offer a course on [how to deploy a Jekyll site](https://www.codecademy.com/learn/deploy-a-website). If you are completely new to Jekyll, I would recommend working through that course as a great start for learning how to deploy your Jekyll site.
