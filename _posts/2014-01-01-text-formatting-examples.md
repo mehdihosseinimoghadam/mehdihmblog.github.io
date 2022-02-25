@@ -160,11 +160,7 @@ HTML defines a long list of available inline tags, which you can mix with Markdo
 
 
 
-<script>
-var audio = new Audio("https://raw.githubusercontent.com/USERNAME/REPOSITORY/BRANCH/Audio.mp3")
-audio.play()
-</script>
-
+<iframe src="https://www.youtube.com/embed/NnTvZWp5Q7o"></iframe>
 
 
 Can be created by having three or more hyphens `---`, asterisks `***`, or underscores `___`:
