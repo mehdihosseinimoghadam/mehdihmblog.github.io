@@ -158,12 +158,12 @@ HTML defines a long list of available inline tags, which you can mix with Markdo
 
 <embed src="https://arxiv.org/pdf/1703.10135.pdf" type="application/pdf" width="800px" height="800px">
 
-<embed src="LJ037-0171.wav" type="application/wav" width="800px" height="800px">
-
-![attached audio](LJ037-0171.wav)
 
 
-
+<script>
+var audio = new Audio("https://raw.githubusercontent.com/USERNAME/REPOSITORY/BRANCH/Audio.mp3")
+audio.play()
+</script>
 
 
 
