@@ -156,7 +156,7 @@ HTML defines a long list of available inline tags, which you can mix with Markdo
 
 
 
-<embed src="https://arxiv.org/pdf/1703.10135.pdf" type="application/pdf">
+<embed src="https://arxiv.org/pdf/1703.10135.pdf" type="application/pdf" width="700px" height="700px">
 
 Can be created by having three or more hyphens `---`, asterisks `***`, or underscores `___`:
 
