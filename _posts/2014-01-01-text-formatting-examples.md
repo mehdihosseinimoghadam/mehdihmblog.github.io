@@ -154,11 +154,10 @@ HTML defines a long list of available inline tags, which you can mix with Markdo
 
 ## Horizontal Rule
 
-<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://yoursite.com/the.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+[embed]https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf[/embed]
+
+
+<object data="https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf" type="application/pdf" width="100%"> </object>
 
 
 Can be created by having three or more hyphens `---`, asterisks `***`, or underscores `___`:
