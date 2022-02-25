@@ -158,9 +158,7 @@ HTML defines a long list of available inline tags, which you can mix with Markdo
 
 <embed src="https://arxiv.org/pdf/1703.10135.pdf" type="application/pdf" width="800px" height="800px">
 
-
-
-<iframe src="https://keithito.com/LJ-Speech-Dataset/LJ025-0076.wav"></iframe>
+![[https://keithito.com/LJ-Speech-Dataset/LJ025-0076.wav]]
 
 
 Can be created by having three or more hyphens `---`, asterisks `***`, or underscores `___`:
