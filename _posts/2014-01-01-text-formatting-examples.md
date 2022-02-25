@@ -158,6 +158,8 @@ HTML defines a long list of available inline tags, which you can mix with Markdo
 
 <embed src="https://arxiv.org/pdf/1703.10135.pdf" type="application/pdf" width="800px" height="800px">
 
+![attached audio](LJ037-0171.wav)
+
 Can be created by having three or more hyphens `---`, asterisks `***`, or underscores `___`:
 
 ---
